@@ -11,7 +11,7 @@ public class OccuranceOfDigit {
 		upper=sc.nextInt();
 		dig=sc.nextInt();
 		System.out.println("The occuranc of "+dig+" in "+low+" to "+upper+" is "+occurance(low,upper,dig));
-
+sc.close();
 	}
 
 	private static int occurance(int low, int upper, int dig) {
