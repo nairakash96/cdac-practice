@@ -1,4 +1,4 @@
-package Decode;
+package decode;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Occurance;
+package occurance;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package WeddingGame;
+package weddingGame;
 
 public class WeddingGameProgram {
 

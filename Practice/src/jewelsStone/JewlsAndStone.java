@@ -1,4 +1,4 @@
-package JewelsStone;
+package jewelsStone;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package MostUsedApp;
+package mostUsedApp;
 
 public class KMostUsedApp {
 

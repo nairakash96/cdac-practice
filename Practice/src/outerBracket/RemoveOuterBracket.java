@@ -1,4 +1,4 @@
-package OuterBracket;
+package outerBracket;
 
 public class RemoveOuterBracket {
 
