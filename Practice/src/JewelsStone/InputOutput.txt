@@ -1,0 +1,6 @@
+Find how many stone are present in jewels..
+Input:-
+Jewels:- "aA"
+Stone :- "aAbbbb"
+
+Output:-3
