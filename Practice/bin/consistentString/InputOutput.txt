@@ -1,0 +1,5 @@
+Input:
+	allowed="ab"
+	word=["ad","bd","aaab","baa","badad"]
+
+Output: 2
