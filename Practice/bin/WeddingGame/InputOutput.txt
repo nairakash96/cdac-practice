@@ -1,0 +1,11 @@
+Input
+		s="1234" y=30
+		
+Output:
+		3
+		
+Explaination:
+1-->	1 2 3 4
+2-->	12 3 4
+3-->	1 23 4
+we can make 3 set of no which are less than 30(Y)
